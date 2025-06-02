@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rental-store-api", "rental-store-api\rental-store-api.csproj", "{0AA9038C-8EF1-5ACA-4926-C1D8EBEDCD5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rental-store-api", ".\rental-store-api.csproj", "{0AA9038C-8EF1-5ACA-4926-C1D8EBEDCD5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
